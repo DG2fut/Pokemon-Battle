@@ -1,0 +1,32 @@
+---- BATTLE START ----
+
+Charizard
+TYPE:  Fire
+ATTACK:  12
+DEFENSE:  8
+LVL:  33.0
+
+VS
+
+Venusaur
+TYPE:  Grass
+ATTACK:  8
+DEFENSE:  12
+LVL:  33.0
+Charizard               HP      ====================
+Venusaur                HP      ====================
+GO Charizard!
+1. Flamethrower
+2. Fly
+3. Blast Burn
+4. Fire Punch
+Pick a move:3
+
+Charizard used Blast Burn!
+Its super effective!
+Charizard               HP      ====================
+
+Venusaur                HP      
+
+...Venusaur fainted.
+Opponent paid you $4751.
